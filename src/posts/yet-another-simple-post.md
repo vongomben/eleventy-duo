@@ -11,7 +11,7 @@ permalink: posts/{{ title | slug }}/index.html
 ---
 Meditation gentrify fam, yuccie kickstarter brunch vape. Pitchfork freegan biodiesel bicycle rights. Semiotics flexitarian four loko XOXO raw denim chartreuse. Cray ramps microdosing everyday carry bicycle rights
 
-## How about a `<blockquote>`?
+## Ho about a `<blockquote>`?
 
 > Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
 
